@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nombre": "samuel",
+      "apellido": "Rueda",
+      "documento": 123456,
+      "tipo_documento": 1,
+      "correo": "samuel@gmail.com",
+      "direccion": "calle 20"
+    },
+    {
+      "id": "ef69",
+      "nombre": "sam",
+      "apellido": "rueda",
+      "documento": "1102714658",
+      "tipo_documento": 2,
+      "correo": "sam@gmail.com",
+      "direcc": "calle 48"
+    },
+    {
+      "id": "ba20",
+      "nombre": "s",
+      "apellido": "s",
+      "documento": "21651591",
+      "tipo_documento": 2,
+      "correo": "sadsa@gmail.com",
+      "direcc": "casdfasd"
+    },
+    {
+      "id": "3726",
+      "nombre": "s",
+      "apellido": "s",
+      "documento": "6747845",
+      "tipo_documento": 2,
+      "correo": "asdfdasf@gmail.com",
+      "direcc": "dsafadsfsad"
+    }
+  ],
+  "documento": [
+    {
+      "id": 1,
+      "name": "TI"
+    },
+    {
+      "id": 2,
+      "name": "CC"
+    },
+    {
+      "id": 3,
+      "name": "CE"
+    },
+    {
+      "id": 4,
+      "name": "PS"
+    },
+    {
+      "id": 5,
+      "name": "LM"
+    }
+  ]
+}
