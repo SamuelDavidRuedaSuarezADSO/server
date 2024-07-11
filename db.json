@@ -1,13 +1,22 @@
 {
   "users": [
     {
-      "nombre": "hoe",
-      "apellido": "Doe",
-      "tipo_documento": "TI",
-      "documento": "123456789",
-      "correo": "John@gmail.com",
-      "dicc": "undefined",
-      "id": "1"
+      "nombre": "Samuel",
+      "apellido": "Rueda",
+      "tipo_documento": "CC",
+      "documento": "1102714658",
+      "correo": "samuel@gmail.com",
+      "direccion": "calle 48",
+      "id": "e4e8"
+    },
+    {
+      "nombre": "Gabriel",
+      "apellido": "Rueda",
+      "tipo_documento": "CC",
+      "documento": "109454246",
+      "correo": "gabriel@gmail.com",
+      "direccion": "calle 56",
+      "id": "2d0b"
     }
   ],
   "documento": [
